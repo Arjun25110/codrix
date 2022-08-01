@@ -1,5 +1,6 @@
 # codrix
-Codrix
+
+This is a workspace create to learn the usage of Version Control System
 
 
 ## Clone the project 
