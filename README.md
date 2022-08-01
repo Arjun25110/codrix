@@ -5,5 +5,5 @@ Codrix
 ## Clone the project 
 
 ```
-git clone 
+git clone git@github.com:SmartDroidies/codrix.git
 ```
