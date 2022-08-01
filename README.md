@@ -8,3 +8,9 @@ This is a workspace create to learn the usage of Version Control System
 ```
 git clone git@github.com:SmartDroidies/codrix.git
 ```
+
+## Create a new branch
+
+```
+git checkout -b "BranchName"
+```
